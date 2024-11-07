@@ -1,0 +1,16 @@
+body{
+    background: white;
+    color: gray;
+}
+header {
+    border-bottom: solid 2px red;
+    padding 0px;
+    front-size: 32px;
+    color: black
+}
+section {
+    background: rgb(92, 0, 0);
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
